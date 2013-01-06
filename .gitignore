@@ -23,6 +23,7 @@ x64/
 *.meta
 *.obj
 *.pch
+*.db
 *.pdb
 *.pgc
 *.pgd
@@ -33,6 +34,9 @@ x64/
 *.tlh
 *.tmp
 *.log
+*.jpg
+*.png
+*.ico
 *.vspscc
 *.vssscc
 .builds
