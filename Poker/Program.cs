@@ -9,6 +9,8 @@ namespace Poker
     {
         /// <summary>
         /// Главная точка входа для приложения.
+        /// Добалено Alexx для теста
+        /// учимся git ^_^ \m/
         /// </summary>
         [STAThread]
         static void Main()
